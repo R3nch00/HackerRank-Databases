@@ -1,0 +1,33 @@
+Set A = {1,2,3,4,5,6}
+Set B = {2,3,4,5,6,7,8}
+
+01) Basics of Sets and Relations #1
+How many elements are present in A U B ?
+Ans -> 8
+
+02) Basics of Sets and Relations #2
+How many elements are present in A Intersection B?
+Ans -> 5
+
+03) Basics of Sets and Relations #3
+How many elements are present in A - B?
+Ans -> 1
+
+04) Basics of Sets and Relations #4
+What is the total number of ordered pairs present in the Cartesian Product A x B ?
+Ans -> 42
+
+05) Basics of Sets and Relations #5
+What is the count of rows returned in the following relational selection?
+σ(Number<3000)(Student)
+Ans -> 2
+
+06) Basics of Sets and Relations #6
+What is the count of attributes (columns) returned in the following projection?
+π(Name, Number)(Student)
+Ans -> 2
+
+07) Basics of Sets and Relations #7
+What is the count of rows returned in the following join operation?
+Student ⊳⊲(Number=ID) Teaching Assistants
+Ans -> 2
